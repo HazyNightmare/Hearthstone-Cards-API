@@ -5,5 +5,9 @@ html, body {
 }
 
 body {
-  
+
+}
+
+.colored {
+  background-color: blue;
 }
