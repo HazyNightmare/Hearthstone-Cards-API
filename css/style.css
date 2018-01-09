@@ -5,9 +5,8 @@ html, body {
 }
 
 body {
-
-}
-
-.colored {
-  background-color: blue;
+  background: url("../HSCardImgs/maxresdefault.png") top center;
+  background-attachment: fixed !important;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
